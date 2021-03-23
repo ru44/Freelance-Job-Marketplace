@@ -1,0 +1,55 @@
+
+					Freelancer list with a valid account.
+
+|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|PseudoName     |Name     |Email                         |Phone     |Skills                 |Experience|Rating|Project-ID-1|Project-ID-2|Project-ID-3|
+|---------------+---------+------------------------------+----------+-----------------------+----------+------+------------+------------+------------|
+|sahar           sahar     sahar@kaumail.com              0506215427 linux administration        0        5.0   6            
+|Asma2000        Asma      Asma2000@kaumail.com           0566215436 mobile dev                  4        5.0   8            9            10           
+|Faycel.Ali      Faycel    Faycel.Ali@kaumail.com         0536215432 web dev                     1        4.98  
+|sana2000        sana      sana2000@kaumail.com           0586215429 network administration      0        4.7   
+|Anis98          Anis      Anis98@kaumail.com             0536215423 web dev                     5        4.5   1            3            
+|khadija         khadija   khadija@kaumail.com                       web design                  3        4.26  
+|Rima96          Rima      Rima96@kaumail.com             0536215428 system dev                  0        4.2   
+|salmankau       salman    salmankau@kaumail.com          0536215430 web dev                     2        3.46  
+|Rached          Rached    Rached@kaumail.com                        web dev                     1        3.22  
+|Amir            Amir      Amir@kaumail.com               0526215424 web design                  1        3.0   2            
+|Mounira         Mounira   Mounira@kaumail.com            0596215434 mobile dev                  0        2.5   
+|AbdAllah98      AbdAllah  AbdAllah98@kaumail.com         0536215425 mobile dev                  2        2.0   4            
+|---------------+---------+------------------------------+----------+-----------------------+----------+------+------------+------------+------------|
+
+
+					Print ‘not started’ project list
+
+|------------------------------------------------------------------------------------------------------------------------------------------------|
+|Project Id|company       |title                       |description                          |category      |min-price|max-price |status         |
+|------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1          Xerox         ecommerce website            Looking for someone who can create    web dev        40        60         not started        
+| 2          Kau           KAU social network           We need a freelancer that             web design     40        65         not started        
+| 3          Safi          Mobile app design            Looking for someone who can create    mobile dev     40        60         not started        
+| 4          Al baik       Oracle DB Migration          We need a freelancer that             database       25        45         not started        
+| 8          Arabic bank   Advertising management       We are a start up company and         web dev        25        50         not started        
+| 9          Bridgestone   landing page for QR code     Looking for someone who can create    web dev        25        45         not started        
+| 10         hyundai       Ads management               We need a freelancer that             web dev        40        60         not started        
+| 13         sedco         Real estate web App          We need a freelancer that             web design     55        75         not started        
+| 14         samsung       ecommerce Mobile app         Looking for someone who can create    mobile dev     65        80         not started        
+|------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+					Best Freelnacer.
+
+|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|PseudoName     |Name     |Email                         |Phone     |Skills                 |Experience|Rating|Project-ID-1|Project-ID-2|Project-ID-3|
+|---------------+---------+------------------------------+----------+-----------------------+----------+------+------------+------------+------------|
+|sahar           sahar     sahar@kaumail.com              0506215427 linux administration        0        5.0   6            
+|Asma2000        Asma      Asma2000@kaumail.com           0566215436 mobile dev                  4        5.0   8            9            10           
+|Faycel.Ali      Faycel    Faycel.Ali@kaumail.com         0536215432 web dev                     1        4.98  
+|sana2000        sana      sana2000@kaumail.com           0586215429 network administration      0        4.7   
+|Anis98          Anis      Anis98@kaumail.com             0536215423 web dev                     5        4.5   1            3            
+|khadija         khadija   khadija@kaumail.com                       web design                  3        4.26  
+|Rima96          Rima      Rima96@kaumail.com             0536215428 system dev                  0        4.2   
+|salmankau       salman    salmankau@kaumail.com          0536215430 web dev                     2        3.46  
+|Rached          Rached    Rached@kaumail.com                        web dev                     1        3.22  
+|Amir            Amir      Amir@kaumail.com               0526215424 web design                  1        3.0   2            
+|---------------+---------+------------------------------+----------+-----------------------+----------+------+------------+------------+------------|
+

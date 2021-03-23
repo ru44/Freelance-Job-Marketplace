@@ -1,0 +1,14 @@
+Project Id,company,title,description,category,min-price ,max-price,status,feedback#
+1,Xerox,ecommerce website,Looking for someone who can create,web dev,40,60,not started,#
+2,Kau,KAU social network,We need a freelancer that ,web design ,40,65,not started,#
+3,Safi,Mobile app design,Looking for someone who can create,mobile dev,40,60,not started,#
+4,Al baik,Oracle DB Migration,We need a freelancer that ,database,25,45,not started,#
+5,Alrajhi,Ubuntu Server administration,Looking for someone who can create,linux administration,55,80,completed,Very professional#
+6,Al baik,plugin for windows desktop,We are a start up company and  ,system dev,40,60,completed,Highly recommended#
+7,Cisco ksa,network installation,Looking for someone who can create,network administration ,45,60,completed,Great work#
+8,Arabic bank,Advertising management,We are a start up company and  ,web dev,25,50,not started,#
+9,Bridgestone,landing page for QR code,Looking for someone who can create,web dev,25,45,not started,#
+10,hyundai,Ads management,We need a freelancer that ,web dev,40,60,not started,#
+12,Toyota,Mobile app design,Looking for someone who can create,mobile dev,45,70,in progress,#
+13,sedco,Real estate web App,We need a freelancer that ,web design ,55,75,not started,#
+14,samsung,ecommerce Mobile app,Looking for someone who can create,mobile dev,65,80,not started,#
